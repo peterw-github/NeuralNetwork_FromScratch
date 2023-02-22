@@ -8,11 +8,11 @@ The purpose of this project, was to better understand machine learning, and neur
 
 So, to achieve this, I've coded a neural network (specifically, a multi-layer perceptron), from scratch in Python. 
 
-To help keep the code tidy and presentable, I've created a class specifically designed for building the neural network, and made methods for all of the common calculations (such as calculating gradient, updating weights/biases, calculating output, etc). 
+To help keep the code tidy and presentable, I've created a class for the neural network, and made methods for all of the common calculations (such as calculating gradient, updating weights/biases, calculating output, etc). 
 
-I've also gone through the underlying mathematics of a neural network, which mainly involves multivariable chain rule, vector/matrix calculus, and vectorisation.
+I've also gone through the underlying mathematics of a neural network, which mainly involves multivariable chain rule, matrix calculus, and vectorisation.
 
-Once the neural network was created, it was applied to the MNIST problem, and achieved an accuracy of about 95%, after 10 epochs of training (took around 1 minute of training on my bog standard home computer). 
+Once the neural network was created, it was applied to the MNIST problem, and achieved an accuracy of about 95%, after 10 epochs of training (took around 1 minute on my bog standard home computer). 
 
 There are quite a number of improvements that can be made to the neural network that I've built, to further improve accuracy, but since the main goal was just to  improve my understanding of neural networks, by rigorously going through the underlying mathematics, I've decied to leave it as is, and move onto other projects.
 
@@ -26,7 +26,7 @@ There are quite a number of improvements that can be made to the neural network 
 
 **"main.py"** is a simple script file, that first imports **"mnist_loader.py"** and **"neuralnet.py"**. It then creates a neural network using **"neuralnet.py"**, which is then trained, and the accuracy of the network is printed at the end of every epoch of training, to help demonstrate that the network is learning.
 
-**"mnist_loader.py"**, is a simple program, that loads and transforms the MNIST data into a usable form. 
+**"mnist_loader.py"**, is a simple program, that loads and transforms the MNIST data.
 
 **"neuralnet.py"**, is where the neural network class has been created, as well as all the methods needed for training and evaulation.
 
