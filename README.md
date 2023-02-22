@@ -4,7 +4,7 @@
 
 Hello!
 
-The purpose of this project, was to better understand machine learning, and neural networks in general. 
+The purpose of this project, was to better my understanding machine learning, and neural networks in general. 
 
 So, to achieve this, I've coded a neural network (specifically, a multi-layer perceptron), from scratch in Python. 
 
