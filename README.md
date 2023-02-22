@@ -1,16 +1,44 @@
-# NeuralNetwork_FromScratch
-Neural network implemented in python, via OOP
+# A Neural Network, From Scratch
 
--- WIP, PUT SUMMARY OF PROJECT HERE --
+<br>
+
+Hello!
+
+The purpose of this project, was to better understand machine learning, and neural networks in general. 
+
+So, to achieve this, I've coded a neural network (specifically, a multi-layer perceptron), from scratch in Python. 
+
+To help keep the code tidy and presentable, I've created a class specifically for building a neural network, and made methods for all the common calculations (such as calculating gradient, updating weights/biases, calculating output, etc). 
+
+I've also gone through the underlying mathematics of a neural network, which mainly involves multivariable chain rule, vector/matrix calculus, and vectorisation.
+
+Once the neural network was created, it was applied to the MNIST problem, and achieved an accuracy of about 95%, after 10 epochs of training (took around 1 minute of training on my standard home computer). 
+
+There are quite a number of improvements that can be made to the neural network that I've built, to further improve accuracy, but since the main goal was just to  improve my understanding of neural networks, by rigorously going through the underlying mathematics, I've decied to leave it as is, and move onto other projects.
+
+
+<br>
+<br>
+<br>
 
 
 
-Explanation of underlying mathematics provided here: <br />
+
+## Walkthrough of underlying mathematics
+
+An explanation/walkthrough of the underlying mathematics can be found here here: <br />
 https://github.com/peterw-github/NeuralNetwork_FromScratch/blob/main/Math%20Explanation%20.pdf
 
 
 
-Credit to Credit to 3Blue1Brown, for the intuitive explanation of a Neural Network, found in the playlist here:
+<br>
+<br>
+<br>
+
+
+## Credit
+
+Credit to Credit to 3Blue1Brown, for the intuitive explanation of a Neural Network, found in the playlist here: <br>
 https://www.youtube.com/watch?v=aircAruvnKk
 
 And to Michael Nielsen, for a more indepth explanation on the underlying mathematics of a Neural Network, and recommendations for future improvements, such as 
