@@ -8,7 +8,7 @@ The purpose of this project, was to better understand machine learning, and neur
 
 So, to achieve this, I've coded a neural network (specifically, a multi-layer perceptron), from scratch in Python. 
 
-To help keep the code tidy and presentable, I've created a class specifically for building the neural network, and made methods for all of the common calculations (such as calculating gradient, updating weights/biases, calculating output, etc). 
+To help keep the code tidy and presentable, I've created a class specifically designed for building the neural network, and made methods for all of the common calculations (such as calculating gradient, updating weights/biases, calculating output, etc). 
 
 I've also gone through the underlying mathematics of a neural network, which mainly involves multivariable chain rule, vector/matrix calculus, and vectorisation.
 
