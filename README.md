@@ -5,7 +5,7 @@ Neural network implemented in python, via OOP
 
 
 
-Explanation of underlying mathematics provided here:
+Explanation of underlying mathematics provided here: <br />
 https://github.com/peterw-github/NeuralNetwork_FromScratch/blob/main/Math%20Explanation%20.pdf
 
 
