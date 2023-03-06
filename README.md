@@ -39,7 +39,7 @@ Thus, overall, there are definitely improvements that could be made to the netwo
 ## Walkthrough of underlying mathematics
 
 An explanation/walkthrough of the underlying mathematics can be found here here: <br />
-https://github.com/peterw-github/NeuralNetwork_FromScratch/blob/main/Math%20Explanation%20.pdf
+https://github.com/peterw-github/NeuralNetwork_FromScratch/blob/main/Explanations/Math%20Explanation.pdf
 
 
 
